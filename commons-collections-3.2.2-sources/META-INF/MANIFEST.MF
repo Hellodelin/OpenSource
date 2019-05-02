@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Commons Collections
+Implementation-Version: 3.2.2
+Implementation-Vendor-Id: commons-collections
+Built-By: tn
+Build-Jdk: 1.7.0_79
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Commons Collections
+Created-By: Apache Maven 3.1.1
+Specification-Version: 3.2.2
+Archiver-Version: Plexus Archiver
+

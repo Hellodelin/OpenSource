@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Specification-Vendor: io.github.pityka
+Specification-Title: fileutils
+Specification-Version: 1.2.2
+

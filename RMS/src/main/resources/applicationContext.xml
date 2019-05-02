@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- applicationContext.xml 这个配置文件在项目启动的时候会自动加载 还有web.xml也会 -->
+    <import resource="applicationContext-mybatis.xml"/>
+    <import resource="applicationContext-shiro.xml"/>
+    <import resource="spring-scheduled.xml"/>
+
+</beans>
